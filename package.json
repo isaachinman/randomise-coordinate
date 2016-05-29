@@ -1,0 +1,22 @@
+{
+  "name": "randomise-coordinate",
+  "version": "1.0.0",
+  "description": "A very simple script to randomise latitude/longitude coordinates",
+  "main": "randomise-coordinate.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaachinman/randomise-coordinate.git"
+  },
+  "keywords": [
+    "latitude",
+    "longitude",
+    "geolocation",
+    "maps"
+  ],
+  "author": "Isaac Hinman <isaac@isaachinman.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaachinman/randomise-coordinate/issues"
+  },
+  "homepage": "https://github.com/isaachinman/randomise-coordinate#readme"
+}
